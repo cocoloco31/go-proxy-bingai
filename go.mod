@@ -1,8 +1,6 @@
 module adams549659584/go-proxy-bingai
 
-go 1.21.4
-
-toolchain go1.21.6
+go 1.24.0
 
 require (
 	github.com/Harry-zklcdc/bing-lib v1.8.0
@@ -16,7 +14,7 @@ require (
 	github.com/google/uuid v1.6.0 // indirect
 	github.com/gorilla/websocket v1.5.1 // indirect
 	github.com/klauspost/compress v1.17.8 // indirect
-	golang.org/x/crypto v0.23.0 // indirect
-	golang.org/x/net v0.25.0 // indirect
-	golang.org/x/sys v0.20.0 // indirect
+	golang.org/x/crypto v0.45.0 // indirect
+	golang.org/x/net v0.47.0 // indirect
+	golang.org/x/sys v0.38.0 // indirect
 )
